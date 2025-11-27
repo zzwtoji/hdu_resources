@@ -1,0 +1,17 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+E:/Documents/lab/lab9/lab9.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+E:/Documents/lab/lab9/lab9.srcs/sources_1/ip/RAM/sim/RAM.v,1749545352,verilog,,E:/Documents/lab/lab9/lab9.srcs/sources_1/ip/ROM/sim/ROM.v,,RAM,,,,,,,,
+E:/Documents/lab/lab9/lab9.srcs/sources_1/ip/ROM/sim/ROM.v,1749545244,verilog,,E:/Documents/计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/ALU_REG.v,,ROM,,,,,,,,
+E:/Documents/计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/ALU_REG.v,1749964051,verilog,,E:/Documents/计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/CU.v,,ALU;ALU_REG;REG,,,,,,,,
+E:/Documents/计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/CU.v,1749135206,verilog,,E:/Documents/计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/DISPLAY.v,,CU,,,,,,,,
+E:/Documents/计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/DISPLAY.v,1749135212,verilog,,E:/Documents/计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/ID.v,,DISPLAY,,,,,,,,
+E:/Documents/计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/ID.v,1749135220,verilog,,E:/Documents/计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/IR.v,,ID1;ID2,,,,,,,,
+E:/Documents/计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/IR.v,1749135186,verilog,,E:/Documents/计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/MDR.v,,IR,,,,,,,,
+E:/Documents/计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/MDR.v,1749135230,verilog,,E:/Documents/计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/PC.v,,MDR,,,,,,,,
+E:/Documents/计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/PC.v,1749135238,verilog,,E:/Documents/计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/REG_HEAP.v,,ADDER;PC,,,,,,,,
+E:/Documents/计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/REG_HEAP.v,1749135246,verilog,,E:/Documents/计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/RIUS_CPU.v,,REG_HEAP,,,,,,,,
+E:/Documents/计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/RIUS_CPU.v,1749135252,verilog,,E:/Documents/计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/TOP.v,,RIUS_CPU,,,,,,,,
+E:/Documents/计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/TOP.v,1749135014,verilog,,,,TOP,,,,,,,,

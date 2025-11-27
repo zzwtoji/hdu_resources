@@ -1,0 +1,20 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../lab9.srcs/sources_1/ip/RAM/sim/RAM.v" \
+"../../../../lab9.srcs/sources_1/ip/ROM/sim/ROM.v" \
+"../../../../../../计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/ALU_REG.v" \
+"../../../../../../计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/CU.v" \
+"../../../../../../计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/DISPLAY.v" \
+"../../../../../../计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/ID.v" \
+"../../../../../../计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/IR.v" \
+"../../../../../../计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/MDR.v" \
+"../../../../../../计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/PC.v" \
+"../../../../../../计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/REG_HEAP.v" \
+"../../../../../../计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/RIUS_CPU.v" \
+"../../../../../../计算机组成原理/实验/CPU_9/CPU_9.srcs/sources_1/new/TOP.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
