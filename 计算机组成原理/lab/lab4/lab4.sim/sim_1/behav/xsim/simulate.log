@@ -1,0 +1,26 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+Time=0 rst=1 R_Addr_A= 0 R_Addr_B= 0 W_Addr= 0 ALU_OP=0000 Reg_Write=0 Data_A=00000000 Data_B=00000000 F=00000000 leds=0000
+Time=10000 rst=0 R_Addr_A= 0 R_Addr_B= 0 W_Addr= 0 ALU_OP=0000 Reg_Write=0 Data_A=00000000 Data_B=00000000 F=00000000 leds=0000
+Time=15000 rst=0 R_Addr_A= 0 R_Addr_B= 0 W_Addr= 0 ALU_OP=0000 Reg_Write=0 Data_A=00000000 Data_B=00000000 F=00000000 leds=1000
+Time=30000 rst=0 R_Addr_A= 1 R_Addr_B= 2 W_Addr= 0 ALU_OP=0000 Reg_Write=0 Data_A=00000001 Data_B=00000002 F=00000000 leds=1000
+Time=45000 rst=0 R_Addr_A= 1 R_Addr_B= 2 W_Addr= 0 ALU_OP=0000 Reg_Write=0 Data_A=00000001 Data_B=00000002 F=00000003 leds=0000
+Time=50000 rst=0 R_Addr_A= 1 R_Addr_B= 2 W_Addr= 3 ALU_OP=0000 Reg_Write=1 Data_A=00000001 Data_B=00000002 F=00000003 leds=0000
+Time=80000 rst=0 R_Addr_A= 3 R_Addr_B= 2 W_Addr= 3 ALU_OP=0000 Reg_Write=1 Data_A=00000003 Data_B=00000002 F=00000003 leds=0000
+Time=95000 rst=0 R_Addr_A= 3 R_Addr_B= 2 W_Addr= 3 ALU_OP=0000 Reg_Write=1 Data_A=00000003 Data_B=00000002 F=00000005 leds=0000
+Time=100000 rst=0 R_Addr_A= 2 R_Addr_B= 1 W_Addr= 4 ALU_OP=1000 Reg_Write=1 Data_A=00000002 Data_B=00000001 F=00000005 leds=0000
+Time=105000 rst=0 R_Addr_A= 2 R_Addr_B= 1 W_Addr= 4 ALU_OP=1000 Reg_Write=1 Data_A=00000002 Data_B=00000001 F=00000001 leds=0000
+Time=130000 rst=0 R_Addr_A= 2 R_Addr_B= 4 W_Addr= 4 ALU_OP=1000 Reg_Write=1 Data_A=00000002 Data_B=00000001 F=00000001 leds=0000
+Time=150000 rst=0 R_Addr_A= 1 R_Addr_B= 2 W_Addr= 0 ALU_OP=0000 Reg_Write=1 Data_A=00000001 Data_B=00000002 F=00000001 leds=0000
+Time=155000 rst=0 R_Addr_A= 1 R_Addr_B= 2 W_Addr= 0 ALU_OP=0000 Reg_Write=1 Data_A=00000001 Data_B=00000002 F=00000003 leds=0000
+Time=180000 rst=0 R_Addr_A= 0 R_Addr_B= 2 W_Addr= 0 ALU_OP=0000 Reg_Write=1 Data_A=00000000 Data_B=00000002 F=00000003 leds=0000
+Time=195000 rst=0 R_Addr_A= 0 R_Addr_B= 2 W_Addr= 0 ALU_OP=0000 Reg_Write=1 Data_A=00000000 Data_B=00000002 F=00000002 leds=0000
+Time=200000 rst=0 R_Addr_A= 3 R_Addr_B= 1 W_Addr= 5 ALU_OP=0001 Reg_Write=1 Data_A=00000003 Data_B=00000001 F=00000002 leds=0000
+Time=205000 rst=0 R_Addr_A= 3 R_Addr_B= 1 W_Addr= 5 ALU_OP=0001 Reg_Write=1 Data_A=00000003 Data_B=00000001 F=00000000 leds=1000
+Time=215000 rst=0 R_Addr_A= 3 R_Addr_B= 1 W_Addr= 5 ALU_OP=0001 Reg_Write=1 Data_A=00000003 Data_B=00000001 F=00000006 leds=0000
+Time=230000 rst=0 R_Addr_A= 3 R_Addr_B= 5 W_Addr= 5 ALU_OP=0001 Reg_Write=1 Data_A=00000003 Data_B=00000006 F=00000006 leds=0000
+Time=245000 rst=0 R_Addr_A= 3 R_Addr_B= 5 W_Addr= 5 ALU_OP=0001 Reg_Write=1 Data_A=00000003 Data_B=00000006 F=000000c0 leds=0000
+Time=250000 rst=0 R_Addr_A= 1 R_Addr_B= 2 W_Addr= 6 ALU_OP=1000 Reg_Write=1 Data_A=00000001 Data_B=00000002 F=000000c0 leds=0000
+Time=255000 rst=0 R_Addr_A= 1 R_Addr_B= 2 W_Addr= 6 ALU_OP=1000 Reg_Write=1 Data_A=00000001 Data_B=00000002 F=fffffffd leds=0101
+Time=265000 rst=0 R_Addr_A= 1 R_Addr_B= 2 W_Addr= 6 ALU_OP=1000 Reg_Write=1 Data_A=00000001 Data_B=00000002 F=ffffffff leds=0101
+$finish called at time : 330 ns : File "E:/Documents/lab/lab4/lab4.srcs/sim_1/new/sim.v" Line 62
